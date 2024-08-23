@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Alaska",
+		"id": "72e89d34-015c-4524-9e9f-3200746d53ea"
+	},
+	{
+		"name": "Hawaii",
+		"id": "482cba42-0126-4c3b-b359-88497fac81a4"
+	},
+	{
+		"name": "New York",
+		"id": "4e73713d-9a96-4f39-a84b-0941de58755d"
+	},
+	{
+		"name": "Texas",
+		"id": "621d5f9d-0a23-451e-892c-f5c4c31f2285"
+	},
+	{
+		"name": "New Jersey",
+		"id": "c36f7050-1b51-4e6d-98ec-430a79d0c382"
+	},
+	{
+		"name": "Ohio",
+		"id": "bdd6a365-494b-421e-b851-7eaf405f7a1a"
+	},
+	{
+		"name": "Oklahoma",
+		"id": "fa88f64c-0b54-4354-b740-db82a0654cd5"
+	},
+	{
+		"name": "Pennsylvania",
+		"id": "13093acf-4cdd-433b-829e-ef3620b623be"
+	},
+	{
+		"name": "Alabama",
+		"id": "2d7b426c-b6c6-49f6-a904-1a15d1a3c4aa"
+	},
+	{
+		"name": "California",
+		"id": "cd1eb4da-8253-449f-8711-6aa7a6815a45"
+	}
+]
